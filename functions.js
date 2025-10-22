@@ -1,3 +1,3 @@
 function saludar(){
-    console.log("mensaje escrito con la rama principal main")
+    console.log("Hola Alumnos de parquesoft ti")
 }
